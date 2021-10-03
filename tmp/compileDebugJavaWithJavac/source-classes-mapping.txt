@@ -1,0 +1,5 @@
+com/vogella/android/studentloancalculator/BuildConfig.java
+ com.vogella.android.studentloancalculator.BuildConfig
+com/vogella/android/studentloancalculator/MainActivity.java
+ com.vogella.android.studentloancalculator.MainActivity
+ com.vogella.android.studentloancalculator.MainActivity$1
